@@ -1,9 +1,11 @@
 -javascript network
   *vue
   *react
+  *angular
+  *expressJs
 -php
-  *konsep oop
   *konsep mvc
 -php network
   *codeigniter
   *laravel
+-java
