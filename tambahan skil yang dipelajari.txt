@@ -2,10 +2,10 @@
   *vue
   *react
   *angular
-  *expressJs
 -php
   *konsep mvc
+  *konsep oop
 -php network
   *codeigniter
   *laravel
--java
+-phyton
