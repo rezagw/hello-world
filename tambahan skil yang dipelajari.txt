@@ -3,8 +3,9 @@
   *react
   *angular
 -php
-  *konsep oop
   *konsep mvc
+  *konsep oop
 -php network
   *codeigniter
+  *laravel
 -phyton
